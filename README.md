@@ -194,20 +194,6 @@ I enjoy solving complex technical challenges, building reusable architectures, a
 
 ---
 
-## 🧠 Engineering Focus
-
-| Area | Expertise |
-|---|---|
-| Frontend | Angular, React, Next.js |
-| Backend | Node.js, Express.js, NestJS |
-| Architecture | Micro Frontend, MVC, MVVM |
-| Database | MongoDB, MySQL, PostgreSQL |
-| Security | JWT, RBAC, OAuth |
-| Integrations | Stripe, AI Services |
-| Deployment | AWS EC2, DigitalOcean |
-
----
-
 ## 🎓 Education
 
 **Bachelor of Technology – Computer Science & Technology**
