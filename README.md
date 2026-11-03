@@ -187,7 +187,6 @@ I enjoy solving complex technical challenges, building reusable architectures, a
 **Role:** Full Stack Developer
 
 - Developed an online booking platform for therapy, nursing and car services.
-- Migrated legacy AngularJS application to Angular 16.
 - Improved booking conversion by approximately 25%.
 - Reduced code complexity by approximately 40%.
 - Designed robust REST APIs with comprehensive error handling.
