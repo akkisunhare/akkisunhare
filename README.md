@@ -210,7 +210,7 @@ I focus on writing maintainable code, designing scalable application architectur
 ### 01. CaziPro
 **AI-Powered Opportunity & Task Management Platform**
 
-**Project Stack:** Angular | Node.js | MongoDB
+**Project Role:** Full Stack Developer
 
 **Key Contributions:**
 
@@ -226,7 +226,7 @@ I focus on writing maintainable code, designing scalable application architectur
 ### 02. Tata Steel Foundation
 **Employee Management & HRMS Platform**
 
-**Project Stack:** Angular | Node.js | Micro Frontend
+**Project Role:** Full Stack Developer
 
 **Key Contributions:**
 
@@ -242,7 +242,7 @@ I focus on writing maintainable code, designing scalable application architectur
 ### 03. DigiSparsh
 **Healthcare Loan Management Platform**
 
-**Project Stack:** Angular | Node.js | MongoDB | Micro Frontend
+**Project Role:** Full Stack Developer
 
 **Key Contributions:**
 
@@ -257,7 +257,7 @@ I focus on writing maintainable code, designing scalable application architectur
 ### 04. Kryupa
 **Healthcare Home Services Booking Portal**
 
-**Project Stack:** Angular 16 | Node.js | PostgreSQL
+**Project Role:** Full Stack Developer
 
 **Key Contributions:**
 
